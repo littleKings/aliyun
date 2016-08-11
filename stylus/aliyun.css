@@ -1,0 +1,373 @@
+.xiaobiaoqian {
+  position: fixed;
+  right: 10px;
+  bottom: 100px;
+  width: 36px;
+  height: 78px;
+  text-align: center;
+}
+.xiaobiaoqian .mianfei {
+  background: #00a2ca;
+  color: #fff;
+  width: 36px;
+  height: 36px;
+  border-radius: 18px;
+  line-height: 1.5;
+}
+.xiaobiaoqian .mianfei a {
+  display: inline-block;
+  padding: 2px 6px;
+  color: #fff;
+  font-size: 12px;
+  transform: scale(0.8);
+  transform-origin: top;
+}
+.xiaobiaoqian .backTop {
+  background: #eee;
+  color: #acacac;
+  width: 36px;
+  height: 36px;
+  border-radius: 18px;
+}
+.xiaobiaoqian .backTop a {
+  padding-top: 9px;
+  font-size: 18px;
+  cursor: pointer;
+  font-style: normal;
+  text-rendering: auto;
+  line-height: 36px;
+}
+.top {
+  width: 100%;
+  height: 500px;
+  background-color: #f00;
+}
+.top .daohang {
+  width: 100%;
+  height: 90px;
+}
+.top .daohang .neibu {
+  width: 1224px;
+  height: 90px;
+  margin: 0 auto;
+}
+.top .daohang .neibu .logo {
+  margin-right: 72px;
+  padding-top: 31.05px;
+  font-size: 0;
+  float: left;
+  width: 148px;
+  height: 62.05px;
+}
+.top .daohang .neibu .logo h1 {
+  width: 148px;
+  height: 31px;
+}
+.top .daohang .neibu .logo h1 .aliyun {
+  width: 94px;
+  height: 31px;
+  background-image: url("http://g.alicdn.com/alishu/portal/0.0.241/imgs/aliyun-logo.png");
+  display: inline-block;
+  vertical-align: top;
+}
+.top .daohang .neibu .logo h1 .shujia {
+  display: inline-block;
+  vertical-align: top;
+  width: 49px;
+  height: 19px;
+  background-image: url("http://g.alicdn.com/alishu/portal/0.0.241/imgs/dtplus-logo.png");
+  margin: 5px 0 0 5px;
+}
+.top .daohang .neibu .nav {
+  width: 568px;
+  height: 90px;
+  display: flex;
+  position: relative;
+  color: #fff;
+  float: left;
+}
+.top .daohang .neibu .nav #One:hover {
+  background-color: #0096bb;
+}
+.top .daohang .neibu .nav #One:hover .jiejue {
+  display: block;
+}
+.top .daohang .neibu .nav #Two:hover {
+  background-color: #0096bb;
+}
+.top .daohang .neibu .nav #Two:hover .chanping {
+  display: block;
+}
+.top .daohang .neibu .nav #Three:hover {
+  background-color: #0096bb;
+}
+.top .daohang .neibu .nav #Three:hover .keshihua {
+  display: block;
+}
+.top .daohang .neibu .nav #Four:hover {
+  background-color: #0096bb;
+}
+.top .daohang .neibu .nav #Four:hover .keshihua {
+  display: block;
+}
+.top .daohang .neibu .nav #Five:hover {
+  background-color: #0096bb;
+}
+.top .daohang .neibu .nav #Five:hover .keshihua {
+  display: block;
+}
+.top .daohang .neibu .nav #Six:hover {
+  background-color: #0096bb;
+}
+.top .daohang .neibu .nav .navli {
+  position: static;
+}
+.top .daohang .neibu .nav .navli .BB {
+  display: block;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 200;
+  line-height: 90px;
+  padding: 0 18px;
+  transition: all 0.4s 0.4s;
+}
+.top .daohang .neibu .nav .navli .jiejue {
+  display: none;
+  width: 928px;
+  height: 200px;
+  background-color: #fff;
+  position: absolute;
+}
+.top .daohang .neibu .nav .navli .jiejue .jiejueO {
+  margin: 25px 25px 10px;
+}
+.top .daohang .neibu .nav .navli .jiejue .jiejueO .neibu {
+  width: 368px;
+  float: left;
+  height: 54px;
+}
+.top .daohang .neibu .nav .navli .jiejue .jiejueO .neibu .One {
+  margin-bottom: 20px;
+  width: 100%;
+}
+.top .daohang .neibu .nav .navli .jiejue .jiejueO .neibu .One a {
+  font-size: 14px;
+  line-height: 18.5px;
+  color: #333;
+  height: 16px;
+}
+.top .daohang .neibu .nav .navli .jiejue .jiejueO .neibu .One div {
+  font-size: 12px;
+  line-height: 15.5px;
+  color: #8e8e8e;
+  width: 368px;
+  height: 15px;
+  padding-left: 17px;
+}
+.top .daohang .neibu .nav .navli .chanping {
+  display: none;
+  width: 928px;
+  height: 300px;
+  background-color: #fff;
+  position: absolute;
+  left: -1px;
+  padding: 0;
+  overflow: hidden;
+}
+.top .daohang .neibu .nav .navli .chanping .chanpingNei {
+  margin: 25px 25px 10px;
+}
+.top .daohang .neibu .nav .navli .chanping .chanpingNei .chanpingliebiao {
+  float: left;
+  width: 171px;
+  margin-right: 63px;
+}
+.top .daohang .neibu .nav .navli .chanping .chanpingNei .chanpingliebiao .biaotiHead {
+  margin-bottom: 15px;
+  padding-bottom: 10.5px;
+  font-size: 14px;
+  line-height: 18.5px;
+  color: #999;
+  border-bottom: 1px solid #f2f2f2;
+}
+.top .daohang .neibu .nav .navli .chanping .chanpingNei .chanpingliebiao .biaotixialie {
+  width: 171px;
+  margin-bottom: 20px;
+}
+.top .daohang .neibu .nav .navli .chanping .chanpingNei .chanpingliebiao .biaotixialie a {
+  font-size: 14px;
+  line-height: 18.5px;
+  color: #333;
+  height: 16px;
+}
+.top .daohang .neibu .nav .navli .chanping .chanpingNei .chanpingliebiaoZ {
+  margin-right: 0px;
+  float: left;
+  width: 171px;
+}
+.top .daohang .neibu .nav .navli .chanping .chanpingNei .chanpingliebiaoZ .biaotiHead {
+  margin-bottom: 15px;
+  padding-bottom: 10.5px;
+  font-size: 14px;
+  line-height: 18.5px;
+  color: #999;
+  border-bottom: 1px solid #f2f2f2;
+}
+.top .daohang .neibu .nav .navli .chanping .chanpingNei .chanpingliebiaoZ .biaotixialie {
+  width: 171px;
+  margin-bottom: 20px;
+}
+.top .daohang .neibu .nav .navli .chanping .chanpingNei .chanpingliebiaoZ .biaotixialie a {
+  font-size: 14px;
+  line-height: 18.5px;
+  color: #333;
+  height: 16px;
+}
+.top .daohang .neibu .nav .navli .keshihua {
+  display: none;
+  width: 928px;
+  height: 232px;
+  background-color: #fff;
+  position: absolute;
+  left: -1px;
+  padding: 0;
+  overflow: hidden;
+}
+.top .daohang .neibu .nav .navli .keshihua .Nei {
+  margin: 25px 25px 10px;
+}
+.top .daohang .neibu .nav .navli .keshihua .Nei .Bu {
+  width: 368px;
+  height: 187px;
+}
+.top .daohang .neibu .nav .navli .keshihua .Nei .Bu .liebiao {
+  margin-bottom: 20px;
+}
+.top .daohang .neibu .nav .navli .keshihua .Nei .Bu .liebiao a {
+  font-size: 14px;
+  line-height: 18.5px;
+  color: #333;
+  height: 16px;
+}
+.top .daohang .neibu .nav .navli .keshihua .Nei .Bu .liebiao div {
+  font-size: 12px;
+  line-height: 15.5px;
+  color: #8e8e8e;
+  width: 368px;
+  height: 30px;
+}
+.top .daohang .neibu .right {
+  width: 306px;
+  height: 90px;
+  display: flex;
+  position: relative;
+  color: #fff;
+  float: right;
+}
+.top .daohang .neibu .right .neirong {
+  color: #fff;
+  font-size: 14px;
+  line-height: 90px;
+  display: inline-block;
+  margin-right: 40px;
+  vertical-align: top;
+  float: left;
+}
+.top .daohang .neibu .right .neirong a {
+  font-size: 14px;
+  paddind: 0 20.5px;
+  display: block;
+  color: #fff;
+  font-weight: 200;
+  line-height: 90px;
+}
+.top .daohang .neibu .right .gaoji {
+  color: #fff;
+  font-size: 14px;
+  line-height: 90px;
+  display: inline-block;
+  margin-right: 40px;
+  vertical-align: top;
+  float: left;
+}
+.top .daohang .neibu .right .gaoji a {
+  font-size: 14px;
+  paddind: 0 20.5px;
+  display: block;
+  color: #fff;
+  font-weight: 200;
+  line-height: 90px;
+}
+.top .daohang .neibu .right .gaoji a i {
+  display: inline-block;
+  border-bottom: 1px solid;
+  width: 16px;
+  height: 6px;
+  vertical-align: super;
+  transition: height 0.3s;
+}
+.top .daohang .neibu .right .gaoji .lianjie {
+  width: 140px;
+  padding-left: 20px;
+  padding-top: 17px;
+  height: 161px;
+  display: none;
+  background-color: #fff;
+  height: auto;
+  position: absolute;
+  top: 88px;
+  right: 1px;
+}
+.top .daohang .neibu .right .gaoji .lianjie a {
+  font-size: 12px;
+  line-height: 36px;
+  color: #676767;
+}
+.top .daohang .neibu .right .gaoji:hover .lianjie {
+  display: block;
+}
+.newHead {
+  width: 100%;
+  height: 700px;
+}
+.bigData {
+  width: 100%;
+  height: 566px;
+}
+.dataLook {
+  width: 100%;
+  height: 580px;
+}
+.dataMarket {
+  width: 100%;
+  height: 524px;
+}
+.hezuo {
+  width: 100%;
+  height: 396px;
+  border-bottom: 1px solid #e5e5e5;
+}
+.bottom {
+  width: 100%;
+  height: 205px;
+  background-image: url("../bottom.png");
+}
+#__video_14702875474971 {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: 100%;
+  height: 100%;
+  z-index: -9999;
+  background: url("http://g.alicdn.com/alishu/portal/0.0.242/imgs/home/video-bg.jpg") no-repeat;
+  background-size: cover;
+  display: inline-block;
+  vertical-align: baseline;
+  object-fit: contain;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #666;
+}
